@@ -1,0 +1,5 @@
+node_modules
+.eslintrc.cjs
+svelte.config.js
+vite.config.js
+dist
